@@ -1,0 +1,9 @@
+.pointer {
+  cursor: pointer;
+  background-color: rgb(248, 249, 250);
+  border: none;
+}
+
+.active {
+  background-color: aquamarine !important;
+}
